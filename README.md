@@ -1,5 +1,4 @@
 ### Hi there 👋
-<a rel="me" href="https://mastodon.social/@sonodakazuto37710">Mastodon</a>
 
 <!--
 **SonodaKazuto/SonodaKazuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
